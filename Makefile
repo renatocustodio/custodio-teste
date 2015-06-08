@@ -9,7 +9,7 @@ SASS=node_modules/node-sass/bin/node-sass
 VIGILIA=node_modules/vigilia/bin/vigilia
 WEBPACK=node_modules/webpack/bin/webpack.js
 
-PORT?=3000
+PORT?=4040
 
 .SILENT:
 
