@@ -1,0 +1,12 @@
+@import "bourbon",
+	
+				//---------- LAYOUT ----------//
+				"layout/below",
+	
+				//---------- RESPONSIVE ----------//
+			  "layout/responsive/screen-fullhd", // 1920px
+				"layout/responsive/screen-midhd",  // 1680px
+				"layout/responsive/screen-sthd",   // 1280px
+				"layout/responsive/tablet-land",   // 1080px
+				"layout/responsive/tablet-port",   // 800px
+				"layout/responsive/phone";  			 // 414px
