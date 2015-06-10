@@ -1,3 +1,9 @@
-@import 'bourbon';
+@import "bourbon",
 
-@import 'mixins/base';
+				//---------- BASICS ----------//
+				"basics/reset",
+				"basics/mixins",
+				"basics/fonts",
+	
+				//---------- LAYOUT ----------//
+				"layout/above",
